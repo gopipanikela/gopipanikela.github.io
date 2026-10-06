@@ -17,7 +17,7 @@ const projects = [
     description:"A product-focused edit for MonoRo, an AI-powered business operations platform. The approach combines clean pacing, product explanation, UI-led storytelling and cinematic visual language.",
     role:"Editing • Product Storytelling • Sound Design • Color",
     tags:["Premiere Pro","Product Film","SaaS","AI"],
-    thumbnail:"",
+    thumbnail:"assets/images/monoro_thumbnail_1600x1000.jpg",
     video:"",
     link:""
   },
