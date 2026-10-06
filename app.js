@@ -7,7 +7,7 @@ const projects = [
     role:"Editing • Storytelling • AI Visual Workflow • Color • Sound",
     tags:["Premiere Pro","AI Visual Workflow","Brand Film","9:16"],
     thumbnail: "assets/images/sindhuri_thumbnail_1600x1000.jpg",
-    video:"",
+    video:"https://www.youtube.com/embed/k5NZW_RZJFI",
     link:""
   },
   {
