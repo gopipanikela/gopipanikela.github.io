@@ -23,9 +23,9 @@ const projects = [
   },
   {
     number:"03",
-    title:"THE SPAGHETTI ARGUMENT",
+    title:"DECEMBER DELIGHTS",
     category:"Social / Food Content",
-    description:"A social-first narrative edit built around a heated customer–staff argument that turns into a comedic reveal. The edit uses conflict, reaction timing, typography, pacing and narrative payoff to create curiosity and drive retention.",
+    description:"A social-first narrative edit built around a heated customer–staff argument over spaghetti. I used conflict, reaction timing, typography, pacing and a comedic reveal to turn a simple food experience into an engaging, discussion-driven story.",
     role:"Editing • Pacing • Sound Design • Typography • Retention",
     tags:["Premiere Pro","Social","Storytelling","Retention"],
     thumbnail:"assets/images/december_delights_thumbnail_1600x1000_play.jpg",
