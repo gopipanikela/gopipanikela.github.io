@@ -28,7 +28,7 @@ const projects = [
     description:"Social-first branded content created for December Delights, focused on visual appetite, rhythm, product presentation and fast mobile-friendly storytelling.",
     role:"Editing • Pacing • Sound Design • Color",
     tags:["Premiere Pro","Social","Food Brand","Short-form"],
-    thumbnail:"assets/images/december_delights_thumbnail_1600x1000.jpg",
+    thumbnail:"assets/images/december_delights_thumbnail_1600x1000_play.jpg",
     video:"",
     link:""
   }
