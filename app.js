@@ -29,7 +29,7 @@ const projects = [
     role:"Editing • Pacing • Sound Design • Typography • Retention",
     tags:["Premiere Pro","Social","Storytelling","Retention"],
     thumbnail:"assets/images/december_delights_thumbnail_1600x1000_play.jpg",
-    video:"",
+    video:"https://www.youtube.com/embed/4sEE1zIp2cs",
     link:""
   }
 ];
