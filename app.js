@@ -44,7 +44,6 @@ function render(){
     <article class="project-card" onclick="openProject(${i})">
       <div class="project-thumb">
         ${p.thumbnail ? `<img src="${p.thumbnail}" alt="${p.title} thumbnail">` : `<div class="thumb-placeholder"><span>${p.title}</span></div>`}
-        <div class="play">▶</div>
       </div>
       <div class="project-body">
         <div class="project-no">${p.number} / ${p.category}</div>
