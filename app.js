@@ -1,12 +1,12 @@
 const projects = [
   {
     number:"01",
-    title:"SINDHURI CHAITHRA",
+    title:"SINDHURI JAI BHARATH",
     category:"Agricultural Brand Film",
     description:"A cinematic agricultural product edit built around farmer emotion, product detail and premium visual storytelling. The edit uses AI-assisted visuals and continuity-focused generation to create a coherent brand story.",
     role:"Editing • Storytelling • AI Visual Workflow • Color • Sound",
     tags:["Premiere Pro","AI Visuals","Brand Film","9:16"],
-    thumbnail:"",
+    thumbnail: "assets/images/sindhuri_thumbnail_1600x1000.jpg",
     video:"",
     link:""
   },
