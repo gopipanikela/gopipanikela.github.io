@@ -18,7 +18,7 @@ const projects = [
     role:"Editing • Creative Direction • Storytelling • Product Visuals",
     tags:["Premiere Pro","Product Film","Storytelling","AI Product"],
     thumbnail:"assets/images/monoro_thumbnail_1600x1000.jpg",
-    video:"",
+    video:"https://www.youtube.com/embed/GZct0dF0T0s",
     link:""
   },
   {
